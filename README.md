@@ -30,5 +30,5 @@ Host your own api on render using the button below.
 
 Note : if u have an error after clickin the above button then fork the repo and deploy it through vercel itself
 
-[![Join our Discord server!](https://invidget.switchblade.xyz/VsPXjNRcbw)](https://discord.gg/VsPXjNRcbw)
+[![Contact us on Telegram !](https://t.me/AKSHAY_OWNS)
 
