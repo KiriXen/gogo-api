@@ -30,5 +30,5 @@ Host your own api on render using the button below.
 
 Note : if u have an error after clickin the above button then fork the repo and deploy it through vercel itself
 
-[![Telegram !](https://t.me/AKSHAY_OWNS)
+[![Telegram USERNAME](https://t.me/AKSHAY_OWNS)
 
