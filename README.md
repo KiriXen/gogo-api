@@ -30,5 +30,5 @@ Host your own api on render using the button below.
 
 Note : if u have an error after clickin the above button then fork the repo and deploy it through vercel itself
 
-[![CONTACT US](https://img.shields.io/badge/Contact%20Bot-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/Bisal_Files_Talk)](https://t.me/AKSHAY_OWNS)
+[![CONTACT US](https://img.shields.io/badge/Contact%20Us-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/Bisal_Files_Talk)](https://t.me/AKSHAY_OWNS)
 
