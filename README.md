@@ -8,7 +8,7 @@ Clone the Repository and run
 
 
 ```
-git clone https://github.com/kirixen/gogo-api.git
+git clone https://github.com/IMMORTAL-DEVELOPER/gogo-api.git
 cd gogo-api
 npm install 
 ```
