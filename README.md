@@ -1,5 +1,18 @@
 # Anime API
 
+
+### Broken
+**`As you all know, Gogoanime is currently broken and doesn't update episodes anymore.`**
+
+<details>
+  <summary>Details</summary>
+  Gogoanime is experiencing issues with updating episodes, which is why the API may not return the most recent content. 
+
+  Kindly note that no complaints be made regarding the lack of updates as I can't do anything.
+</details>
+
+### Intro
+
 Modified api of [Gogoanime-api](https://github.com/riimuru/gogoanime-api)
 
 ### Installing
