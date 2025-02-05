@@ -21,7 +21,7 @@ Clone the Repository and run
 
 
 ```
-git clone https://github.com/kirixen/gogo-api.git
+git clone https://github.com/IMMORTAL-DEVELOPER/gogo-api.git
 cd gogo-api
 npm install 
 ```
@@ -43,5 +43,5 @@ Host your own api on render using the button below.
 
 Note : if u have an error after clickin the above button then fork the repo and deploy it through vercel itself
 
-[![Join our Discord server!](https://invidget.switchblade.xyz/VsPXjNRcbw)](https://discord.gg/VsPXjNRcbw)
+[![CONTACT US](https://img.shields.io/badge/Contact%20Us-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/Bisal_Files_Talk)](https://t.me/AKSHAY_OWNS)
 
